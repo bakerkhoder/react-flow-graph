@@ -4,7 +4,7 @@ This project is a Next.js application that allows users to dynamically add and e
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/react-flow-graph.git`
+1. Clone the repository: `git clone https://github.com/bakerkhoder/react-flow-graph.git`
 2. Navigate to the project directory: `cd react-flow-graph`
 3. Install dependencies: `npm install` 
 
